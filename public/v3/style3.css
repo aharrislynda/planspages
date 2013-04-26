@@ -1,0 +1,27 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#container {
+}
+
+#header {
+    background: #000;
+    width: 100%;
+}
+
+#header img, #content img, #footer img {
+    display: block;
+    margin: 0px auto;
+}
+
+#content {
+    background: #fff;
+    width: 100%;
+}
+
+#footer {
+    background: black;
+    width: 100%;
+}
